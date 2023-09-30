@@ -1,0 +1,38 @@
+#num{
+    
+    padding: 10px;
+    text-align: center;
+    font-size: 200px;
+    margin-top: 10%;
+    border-radius:100px
+
+    
+}
+
+#num2{
+    
+    padding: 20px;
+    text-align: center;
+    font-size: 50px;
+    border-radius:100px
+    
+}
+.ele{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 18px;
+    font-size: 35px;
+    border-radius: 9px;
+
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
